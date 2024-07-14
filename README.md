@@ -1,1 +1,1 @@
-# Nuxt 3 WordPress Proof of Concept
+# Headless WordPress Proof of concept using Nuxt frontend with [WPNuxt] (https://github.com/vernaillen/wpnuxt)
