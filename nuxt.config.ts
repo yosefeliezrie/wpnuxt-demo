@@ -54,7 +54,7 @@ export default defineNuxtConfig({
   image: {
     provider: 'twicpics',
     twicpics: {
-      baseURL: 'https://vernaillen.twic.pics/wpnuxt-demo'
+      baseURL: 'https://yosefeliezrie.twic.pics/wpnuxt-demo'
     }
   },
 
